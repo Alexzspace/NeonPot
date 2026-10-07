@@ -8,6 +8,8 @@ Neon Pot / 霓虹夜河 is a solo-developed poker game by Alex Zhao, built with 
 
 ## Play
 
+[**Download the latest release — Android APK / Windows EXE and ZIP**](https://github.com/Alexzspace/NeonPot/releases/latest)
+
 The community build starts in **English** on a fresh installation. Simplified Chinese is available in Settings; your language choice is saved. Updating an existing installation preserves its chosen language.
 
 - **Windows x64:** extract the Windows ZIP and run `NeonPot.exe`. A D3D12-capable graphics device/driver is required by the configured Mobile renderer. The EXE is not Authenticode-signed.
@@ -15,7 +17,7 @@ The community build starts in **English** on a fresh installation. Simplified Ch
 - **Solo:** choose the table size and select **SOLO TABLE**.
 - **Friends:** join the same Wi-Fi network. One player selects **HOST TABLE**; the others select **FIND LOCAL TABLES**. Allow private-network access if Windows asks. Guest Wi-Fi with client isolation may prevent discovery.
 
-See [How to play](docs/PLAYING.md) for controls and table setup. Downloadable builds belong in GitHub Releases, not in source-control commits. No hosted release URL has been created for this local review copy.
+See [How to play](docs/PLAYING.md) for controls and table setup. Download builds from [GitHub Releases](https://github.com/Alexzspace/NeonPot/releases/latest). The Windows ZIP includes player instructions and license notices; a standalone EXE is also available.
 
 ## Features
 

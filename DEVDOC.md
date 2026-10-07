@@ -2,6 +2,14 @@
 
 Current version: **2.0.0**. English community/source-review edition prepared on **5 October 2026**. The game is complete within its documented Windows/Android and local-multiplayer scope.
 
+## 2.0.0 — GitHub release preparation, 7 October 2026
+
+- Uploaded the 493-file English source snapshot to Alexzspace/NeonPot; the repository is public.
+- Added a latest-release download link to the README and prepared v2.0.0 with the existing Windows EXE/ZIP and Android APK built on 5 October. No gameplay, runtime assets, protocol or package versions changed; no rebuild was performed.
+- Rechecked all three binary SHA256 hashes against the saved build manifest; all matched. Confirmed the initial remote main commit matches the local source commit. Historical test results below remain dated 5 October; no new regression or physical-device test is claimed.
+- Release publishing and remote asset digest verification are tracked separately from preparation. The latest-release endpoint is the authoritative published download location.
+- Original code remains MIT; supplied music/startup media and third-party assets retain their separate notices. Startup-media provenance remains a maintainer documentation item.
+
 ## 2.0.0 — English community edition, 5 October 2026
 
 - A fresh installation, missing language field or invalid saved locale now uses English. Saved English and Chinese choices remain intact; the user-data directory is unchanged.
