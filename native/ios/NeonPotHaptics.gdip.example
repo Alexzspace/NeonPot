@@ -1,0 +1,9 @@
+[config]
+name="NeonPotHaptics"
+binary="NeonPotHaptics.a"
+initialization="initialize_neon_pot_haptics"
+deinitialization="deinitialize_neon_pot_haptics"
+
+[dependencies]
+system=["Foundation.framework", "CoreHaptics.framework"]
+linker_flags=["-ObjC"]

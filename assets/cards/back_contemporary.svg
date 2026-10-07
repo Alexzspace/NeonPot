@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="528" height="736" viewBox="-66 -92 132 184">
+<defs>
+<g id="half"><path d="M-58-80H58V0H-58Z" fill="#272b46"/>
+<path d="M-52-73H13V-8H-52Z" fill="#b6a0d0"/><circle cx="13" cy="-39" r="30" fill="#e48362"/>
+<path d="M-52-14L39-70V-14Z" fill="#287771"/>
+<circle cx="-47" cy="-67" r=".65" fill="#453958"/>
+<circle cx="-41" cy="-67" r=".65" fill="#453958"/>
+<circle cx="-35" cy="-67" r=".65" fill="#453958"/>
+<circle cx="-29" cy="-67" r=".65" fill="#453958"/>
+<circle cx="-23" cy="-67" r=".65" fill="#453958"/>
+<circle cx="-17" cy="-67" r=".65" fill="#453958"/>
+<circle cx="-11" cy="-67" r=".65" fill="#453958"/>
+<circle cx="-47" cy="-61" r=".65" fill="#453958"/>
+<circle cx="-41" cy="-61" r=".65" fill="#453958"/>
+<circle cx="-35" cy="-61" r=".65" fill="#453958"/>
+<circle cx="-29" cy="-61" r=".65" fill="#453958"/>
+<circle cx="-23" cy="-61" r=".65" fill="#453958"/>
+<circle cx="-17" cy="-61" r=".65" fill="#453958"/>
+<circle cx="-11" cy="-61" r=".65" fill="#453958"/>
+<circle cx="-47" cy="-55" r=".65" fill="#453958"/>
+<circle cx="-41" cy="-55" r=".65" fill="#453958"/>
+<circle cx="-35" cy="-55" r=".65" fill="#453958"/>
+<circle cx="-29" cy="-55" r=".65" fill="#453958"/>
+<circle cx="-23" cy="-55" r=".65" fill="#453958"/>
+<circle cx="-17" cy="-55" r=".65" fill="#453958"/>
+<circle cx="-11" cy="-55" r=".65" fill="#453958"/>
+<circle cx="-47" cy="-49" r=".65" fill="#453958"/>
+<circle cx="-41" cy="-49" r=".65" fill="#453958"/>
+<circle cx="-35" cy="-49" r=".65" fill="#453958"/>
+<circle cx="-29" cy="-49" r=".65" fill="#453958"/>
+<circle cx="-23" cy="-49" r=".65" fill="#453958"/>
+<circle cx="-17" cy="-49" r=".65" fill="#453958"/>
+<circle cx="-11" cy="-49" r=".65" fill="#453958"/>
+<circle cx="-47" cy="-43" r=".65" fill="#453958"/>
+<circle cx="-41" cy="-43" r=".65" fill="#453958"/>
+<circle cx="-35" cy="-43" r=".65" fill="#453958"/>
+<circle cx="-29" cy="-43" r=".65" fill="#453958"/>
+<circle cx="-23" cy="-43" r=".65" fill="#453958"/>
+<circle cx="-17" cy="-43" r=".65" fill="#453958"/>
+<circle cx="-11" cy="-43" r=".65" fill="#453958"/>
+<circle cx="-47" cy="-37" r=".65" fill="#453958"/>
+<circle cx="-41" cy="-37" r=".65" fill="#453958"/>
+<circle cx="-35" cy="-37" r=".65" fill="#453958"/>
+<circle cx="-29" cy="-37" r=".65" fill="#453958"/>
+<circle cx="-23" cy="-37" r=".65" fill="#453958"/>
+<circle cx="-17" cy="-37" r=".65" fill="#453958"/>
+<circle cx="-11" cy="-37" r=".65" fill="#453958"/>
+<circle cx="-47" cy="-31" r=".65" fill="#453958"/>
+<circle cx="-41" cy="-31" r=".65" fill="#453958"/>
+<circle cx="-35" cy="-31" r=".65" fill="#453958"/>
+<circle cx="-29" cy="-31" r=".65" fill="#453958"/>
+<circle cx="-23" cy="-31" r=".65" fill="#453958"/>
+<circle cx="-17" cy="-31" r=".65" fill="#453958"/>
+<circle cx="-11" cy="-31" r=".65" fill="#453958"/>
+<circle cx="-47" cy="-25" r=".65" fill="#453958"/>
+<circle cx="-41" cy="-25" r=".65" fill="#453958"/>
+<circle cx="-35" cy="-25" r=".65" fill="#453958"/>
+<circle cx="-29" cy="-25" r=".65" fill="#453958"/>
+<circle cx="-23" cy="-25" r=".65" fill="#453958"/>
+<circle cx="-17" cy="-25" r=".65" fill="#453958"/>
+<circle cx="-11" cy="-25" r=".65" fill="#453958"/>
+<path d="M-18-69L45-21M-18-63L45-15M-18-57L40-13" stroke="#f1e5cc" stroke-width="1.5"/>
+<circle cx="-22" cy="-43" r="14" fill="#c9486a"/><circle cx="-22" cy="-43" r="6" fill="#f2deb3"/>
+<path d="M42-78H51V-50H42Z" fill="#ddc676"/></g></defs>
+<path d="M-61-92H61L66-87V87L61 92H-61L-66 87V-87Z" fill="#ece4dc"/>
+<use href="#half"/><use href="#half" transform="rotate(180)"/>
+<path d="M-58-80H58V80H-58Z" fill="none" stroke="#272b46" stroke-width="2"/>
+<circle r="14" fill="#ece4dc"/><path d="M0-9L9 0 0 9-9 0Z" fill="#272b46"/>
+</svg>

@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="528" height="736" viewBox="-66 -92 132 184">
+  <defs>
+    <!-- Baked by Godot's SVG importer: no runtime shader, lights or reflection. -->
+    <linearGradient id="foil" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#80602c"/><stop offset=".20" stop-color="#d1aa59"/>
+      <stop offset=".36" stop-color="#fff0b2"/><stop offset=".5" stop-color="#bc9146"/>
+      <stop offset=".64" stop-color="#fff0b2"/><stop offset=".80" stop-color="#d1aa59"/>
+      <stop offset="1" stop-color="#80602c"/>
+    </linearGradient>
+    <linearGradient id="black" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#09090c"/><stop offset=".5" stop-color="#1b1918"/><stop offset="1" stop-color="#09090c"/>
+    </linearGradient>
+    <g id="corner" fill="none" stroke="#8c713d" stroke-width=".55">
+      <path d="M36 72H48V52 M31 68H44V47 M39 75H51V57"/>
+      <path d="M38 58L43 63L38 68L33 63Z" fill="#171513"/>
+      <path d="M38 61L40 63L38 65L36 63Z" fill="#d6b36a" stroke="none"/>
+    </g>
+    <g id="sprig" fill="none" stroke="#755e33" stroke-width=".55">
+      <path d="M38 0L50 12V37L38 49 M43 0L53 10V40L41 52 M48 0L55 7V43L44 54"/>
+    </g>
+    <g id="crown" fill="#ceaa61">
+      <path d="M-12-55L-12-63L-6-60L0-67L6-60L12-63L12-55Z"/>
+      <path d="M-12-52H12V-50H-12Z"/>
+      <path d="M-2-73H2V-69H-2Z" fill="#f4df9d"/>
+    </g>
+    <g id="spade" fill="#dfbf77">
+      <path d="M0-32L-3-29H-5V-27H-7V-25H-9V-19H-7V-17H-3L-1-19V-15H-4V-13H4V-15H1V-19L3-17H7V-19H9V-25H7V-27H5V-29H3Z"/>
+      <path d="M0-30L-3-27H-5V-25H-7V-23H-5V-25H-3V-27H0Z" fill="#fff1c4"/>
+      <path d="M0-30L3-27H5V-25H7V-23H5V-25H3V-27H0Z" fill="#fff1c4"/>
+    </g>
+  </defs>
+  <path d="M-57-86H57L60-83V83L57 86H-57L-60 83V-83Z" fill="url(#black)"/>
+  <g fill="none" stroke="url(#foil)">
+    <path d="M-53-81H53L55-79V79L53 81H-53L-55 79V-79Z" stroke-width="1.6"/>
+    <path d="M-50-77H50L51-76V76L50 77H-50L-51 76V-76Z" stroke-width=".5"/>
+    <path d="M0-47L33 0L0 47L-33 0Z" stroke-width="1.8"/>
+    <path d="M0-40L28 0L0 40L-28 0Z" stroke-width=".5"/>
+    <path d="M-22 0H-13M13 0H22M0-7L7 0L0 7L-7 0Z" stroke-width="1"/>
+  </g>
+  <use href="#corner"/><use href="#corner" transform="scale(-1 1)"/>
+  <use href="#corner" transform="scale(1 -1)"/><use href="#corner" transform="scale(-1 -1)"/>
+  <use href="#sprig"/><use href="#sprig" transform="scale(-1 1)"/>
+  <use href="#sprig" transform="scale(1 -1)"/><use href="#sprig" transform="scale(-1 -1)"/>
+  <use href="#crown"/><use href="#crown" transform="scale(1 -1)"/>
+  <use href="#spade"/><use href="#spade" transform="scale(1 -1)"/>
+  <path d="M-2 0L0-2L2 0L0 2Z" fill="#ffebae"/>
+</svg>

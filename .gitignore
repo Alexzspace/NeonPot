@@ -1,0 +1,22 @@
+# Godot and generated platform builds
+.godot/
+/android/
+/builds/
+/test-results/
+/artifacts/
+/tools/downloads/
+
+# Private source media, local configuration and credentials
+/BGM/
+/promo/
+.env
+.env.*
+!.env.example
+*.keystore
+*.jks
+*.p12
+*.pfx
+*.key
+export_credentials.cfg
+.DS_Store
+Thumbs.db

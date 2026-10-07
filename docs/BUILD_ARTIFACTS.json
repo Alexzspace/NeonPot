@@ -1,0 +1,39 @@
+{
+  "edition": "Neon Pot 2.0.0 English community edition",
+  "built": "2026-10-05",
+  "distribution": "Local only; no upload or phone installation",
+  "artifacts": [
+    {
+      "path": "Windows/NeonPot.exe",
+      "bytes": 152261424,
+      "sha256": "60aaa8d59702d71413645003b62f0de1225d04496ee73fa077571b7969541bdc"
+    },
+    {
+      "path": "NeonPot-v2.0.0-English-Windows.zip",
+      "bytes": 81654518,
+      "sha256": "f2d1eecd93704f0f705c01a73b2a609f3bbf2bc37060fa5abc50c54d3c9553f5"
+    },
+    {
+      "path": "NeonPot-v2.0.0-English.apk",
+      "bytes": 123882954,
+      "sha256": "1adf8c9498d6efcc4dd91a7f4e64323400faf002f7cca2291244264e9e9a58db"
+    }
+  ],
+  "shared_compiled_main_sha256": "e4af80b691eb05d9af9b44dc999056b984a0324893042472fe0d5f69340608d8",
+  "validation": {
+    "suites": 78,
+    "checks": 40415,
+    "failures": 0,
+    "windows_graphical_smoke_frames": 900,
+    "windows_embedded_pack_checks": 9,
+    "apk_compiled_music_tracks": 10,
+    "apk_signature": "Verified by build script",
+    "apk_alignment": "16KB alignment verified",
+    "apk_architecture": "arm64-v8a",
+    "apk_package": "com.neonpot.holdem",
+    "apk_version_code": 14,
+    "apk_min_sdk": 24,
+    "apk_target_sdk": 35,
+    "android_device_test": false
+  }
+}

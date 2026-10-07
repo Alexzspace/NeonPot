@@ -1,0 +1,17 @@
+NEON POT — SUPPLIED MEDIA
+
+The game's MIT license applies to original project work, not to the supplied
+recordings, font software or startup movie.
+
+Music: Miserable Faith / 痛仰乐队. Ethereal; Highland; Jambo; Melody of the Rain;
+Mirage; Morning Espresso; Nightlife; Rosemary; Wandering; White Dew.
+The maintainer confirmed permission to include these ten songs in the public
+source package and game builds on 5 October 2026. Rights remain with their
+respective holders. No separate reuse, adaptation, sale or sublicensing rights
+are granted by the game's MIT license.
+
+Startup: intro.ogv was converted from the maintainer-supplied Godot Effect.mp4.
+It has no recorded open-media license and is excluded from the MIT grant.
+Independent reuse requires the relevant holder's permission.
+
+See THIRD_PARTY_NOTICES.md and the included font and engine notices.

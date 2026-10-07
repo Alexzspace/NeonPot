@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <application>
+        <!-- Godot's generated debug/release overlays use mergeOnlyAttributes for
+             GodotApp, so the activity-level Xiaomi value from src/main is
+             otherwise omitted from the merged APK/AAB manifest. -->
+        <activity android:name=".GodotApp">
+            <meta-data
+                android:name="miui.supportFlipFullScreen"
+                android:value="0" />
+        </activity>
+    </application>
+</manifest>
