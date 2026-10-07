@@ -2,12 +2,12 @@
 
 Current version: **2.0.0**. English community/source-review edition prepared on **5 October 2026**. The game is complete within its documented Windows/Android and local-multiplayer scope.
 
-## 2.0.0 — GitHub release preparation, 7 October 2026
+## 2.0.0 — GitHub public release, 7 October 2026
 
 - Uploaded the 493-file English source snapshot to Alexzspace/NeonPot; the repository is public.
 - Added a latest-release download link to the README and prepared v2.0.0 with the existing Windows EXE/ZIP and Android APK built on 5 October. No gameplay, runtime assets, protocol or package versions changed; no rebuild was performed.
 - Rechecked all three binary SHA256 hashes against the saved build manifest; all matched. Confirmed the initial remote main commit matches the local source commit. Historical test results below remain dated 5 October; no new regression or physical-device test is claimed.
-- Release publishing and remote asset digest verification are tracked separately from preparation. The latest-release endpoint is the authoritative published download location.
+- Published [v2.0.0](https://github.com/Alexzspace/NeonPot/releases/tag/v2.0.0) as the latest release, with Android APK, standalone Windows EXE, Windows ZIP and SHA256SUMS.txt. GitHub reported all four assets uploaded with matching sizes and SHA256 digests. All 493 remote source blobs matched the local Git tree after the download-link update. The tagged runtime source matches the existing binaries; subsequent publication-record edits are documentation-only.
 - Original code remains MIT; supplied music/startup media and third-party assets retain their separate notices. Startup-media provenance remains a maintainer documentation item.
 
 ## 2.0.0 — English community edition, 5 October 2026

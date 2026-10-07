@@ -1,6 +1,6 @@
-# Verified state — 5 October 2026
+# Verified state — release 7 October 2026; build validation 5 October 2026
 
-This file records validation of **Neon Pot 2.0.0 English community edition** on 5 October. On 7 October the source was uploaded to the public [Alexzspace/NeonPot repository](https://github.com/Alexzspace/NeonPot), and the existing binaries were hash-checked for release. See [latest release](https://github.com/Alexzspace/NeonPot/releases/latest) for published downloads. These historical checks do not imply a new build, store publication or Android device installation.
+This file records validation of **Neon Pot 2.0.0 English community edition** on 5 October. On 7 October the source was uploaded to the public [Alexzspace/NeonPot repository](https://github.com/Alexzspace/NeonPot), and [v2.0.0](https://github.com/Alexzspace/NeonPot/releases/tag/v2.0.0) was published as the latest release. All 493 source blobs matched the uploaded Git tree; GitHub's APK, EXE, ZIP and checksum-file sizes and SHA256 digests matched local files. See [latest release](https://github.com/Alexzspace/NeonPot/releases/latest) for downloads. These checks do not imply a new build, store publication or Android device installation.
 
 | Check | Result |
 | --- | --- |
