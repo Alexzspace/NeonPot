@@ -2,6 +2,12 @@
 
 Current version: **2.0.0**. English community/source-review edition prepared on **5 October 2026**. The game is complete within its documented Windows/Android and local-multiplayer scope.
 
+## 2.0.0 — Social preview artwork, 7 October 2026
+
+- Created docs/images/social-preview-v1.jpg, a 1280 x 640 GitHub sharing banner based on the actual English home screen's cards, chips, pixel styling and midnight-purple palette. The README gameplay screenshot remains unchanged.
+- Generated with the built-in image generator, then resized/encoded for upload (181,291 bytes). Checked title, subtitle and platform labels visually. No runtime or package changes; no gameplay tests or rebuild needed.
+- Repository Social preview upload was attempted but blocked by the browser extension's missing file-URL access permission. The saved artwork is ready; this entry does not claim the repository preview setting has been changed.
+
 ## 2.0.0 — GitHub public release, 7 October 2026
 
 - Uploaded the 493-file English source snapshot to Alexzspace/NeonPot; the repository is public.
